@@ -1,19 +1,22 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Aplikasi Kalkulator
+Aplikasi kalkulator ini merupakan aplikasi perhitungan yang terdiri dari penjumlahan, pengurangan, perkalian dan 
+pembagian.
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
-- Type some Markdown on the left
-- See HTML in the right
+## Features aplikasi kalkulator
+- Penjumlahan
+- Pengurangan
+- Perkalian 
+- Pembagian 
 - ✨Magic ✨
 
-## Features
-
+## Tech
+Aplikasi ini dibangun menggunakan:
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
